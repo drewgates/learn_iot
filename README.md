@@ -1,14 +1,15 @@
 # Learn Electronics and IoT
 
-Hey! I'm assembling a list of useful skills for designing Electronics/IoT devices for the non-Engineer. These are, for the most part, resources that have served me well over the past few years. 
+Hey! I'm assembling a list of useful skills for designing Electronics/IoT devices for the non-Engineer. Learn links identify places to pick up these skills. Several of these are resources that have served me well over the past few years. In some cases, links are temporary (result of skill #1) as I identify best resources for some topics. 
 
-Learn links identify places to pick up these skills. In some cases, links are temporary (result of skill #1) as I identify best resources for some skills. Have a better suggestion, open an issue or PR. 
+Have a better suggestion? Feel free to open an issue or PR. 
 
 Skill List:
 
 * How to Google. [Seriously](https://www.pcmag.com/how-to/23-google-search-tips-youll-want-to-learn).
 
-* Circuits and Breadboarding
+* Circuits and Breadboarding [Learn](https://www.smraza.com/pages/toturial)
+  * We use the Smraza S32 kit at MakerspaceCT and Spark Makerspace. It's not perfect, but it is adequate and inexpensive and it includes the T-Cobbler board for breaking out the Raspberry Pi GPIO pins.
 
 * File management and revision history: git with github lfs. ([Learn](https://dangitgit.com/en))
 
