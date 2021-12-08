@@ -15,7 +15,7 @@ Skill List:
 
 * Arduino Fundamentals ([Learn](https://github.com/makerspacect/arduino_intro))
 
-* MicroPython Fundamentals
+* MicroPython or CircuitPython Fundamentals
 
 * Raspberry Pi Fundamentals ([Learn](https://github.com/makerspacect/raspberry_pi_intro))
 
