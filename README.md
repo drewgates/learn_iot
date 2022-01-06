@@ -1,12 +1,12 @@
 # Learn Electronics and IoT
 
-Hey! I'm assembling a list of useful skills and tutorials for designing Electronics/IoT devices for the non-Engineer. **[Learn]** links identify places to pick up these skills. Some of these are resources that have served me well over the past few years. In some cases, links are temporary (result of skill #1) as I continue to identify best resources for some topics. 
+Hey! I'm assembling a list of useful skills and tutorials for designing Electronics/IoT devices for the non-Engineer. **[Learn]** links identify places to pick up these skills. Some of these are resources that have served me well over the past few years. In some cases, links are temporary (result of the first skill on the list) as I continue to identify best resources for some topics.
 
 Have a better suggestion? Feel free to open an issue or PR. 
 
 Skill List:
 
-* How to Google. [Seriously](https://www.pcmag.com/how-to/23-google-search-tips-youll-want-to-learn).
+* How to Google. [Seriously](https://www.pcmag.com/how-to/23-google-search-tips-youll-want-to-learn). You can also check out FreeCodeCamp's [Read-Search-Ask methodology](https://www.freecodecamp.org/news/read-search-dont-be-afraid-to-ask-743a23c411b4/). The amount of information available at our fingertips is wild, and knowing how to find it will get you far.
 
 * Circuits and Breadboarding ([Learn](https://www.smraza.com/pages/toturial))
   * We use the [Smraza S32](https://www.smraza.com/products/smraza-basic-starter-kit-for-arduino-uno-r3-project-with-tutorial-breadboard-jumper-wires-resistors-led-lcd-1602-sensors-s32) kit at [MakerspaceCT](https://makerspacect.com) and [Spark Makerspace](https://sparkmakerspace.org). It's not perfect, but it is adequate and inexpensive and it includes the T-Cobbler board for breaking out the Raspberry Pi GPIO pins. As of 12/7/2021, not currently available on Amazon.
@@ -60,7 +60,7 @@ The term 'development' is used loosely here. Depending on the project, this migh
 ### RP2040-based
 Raspberry Pi Pico (RP2040)
 Seeedstudio XIAO RP2040 (RP2040)
-SparkFun Pro Micro - RP2040
+SparkFun Pro Micro - RP2040 (RP2040)
 
 ### Raspberry Pi (full Linux OS)
 * Raspberry Pi 4 Model B
