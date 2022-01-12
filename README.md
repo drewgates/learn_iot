@@ -23,7 +23,9 @@ Skill List:
 
 * Helium Packets ([Learn](https://github.com/MakerspaceCT/ttgo_esp32_helium))
 
-* MQTT with Helium, LoRaWAN ([Learn](https://www.hackster.io/uFire/helium-water-quality-monitor-075e6d))
+* MQTT with Helium, LoRaWAN ([Learn](https://www.hackster.io/uFire/helium-water-quality-monitor-075e6d)) - AWS IoT Core is AWS's MQTT broker. You could also use [Mosquitto](https://pimylifeup.com/raspberry-pi-mosquitto-mqtt-server/) if you're looking for a self-hosted solution.
+
+* AWS IoT Core ([Learn](https://aws.amazon.com/blogs/compute/building-an-aws-iot-core-device-using-aws-serverless-and-an-esp32/))
 
 * Sensors!
 
